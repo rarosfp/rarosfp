@@ -8,6 +8,6 @@
 
 🤔 I’m looking for help with Python and R programming languages
 
-📫 How to reach me: on my site https://sites.google.com/view/andreasretouniotis/home and also can soy send me a e-mail: aretouniotis@gmail.com
+📫 How to reach me: on my site https://sites.google.com/view/andreasretouniotis/home and also can send me a e-mail: aretouniotis@gmail.com
 
 ⚡ Fun fact: i love the nature and i'm amauter photographer. 
