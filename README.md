@@ -2,7 +2,7 @@
 
 🔭 I’m currently a PhD student and my researching interestings are focus on cryptocurrencies and the energy consumption of the mining process.
 
-🌱 I’m currently learning learning to code in Python and R programming languages but i'm also open to new thinks
+🌱 I’m currently learning learning to code in Python and R programming languages but i'm also open to new things
 
 👯 I’m looking to collaborate on projects about cryptocurrencies.
 
